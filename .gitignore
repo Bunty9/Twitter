@@ -8,7 +8,7 @@
 firebase.js
 /.firebase
 .firebaserc
-firebse.json
+firebase.json
 # testing
 /coverage
 
