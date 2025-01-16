@@ -44,6 +44,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Bipin S C- [Bunty9](https://twitter.com/your_username) - cbipin2000@gmail.com
-Instagram- [skatebored\_\_\_\_](https://www.instagram.com/skatebored____/)
+Bipin S C- [Bunty9](mailto:cbipin2000@gmail.com) - cbipin2000@gmail.com
+Instagram- [blxxdblxxm](https://www.instagram.com/blxxdblxxm/)
 Project Link: [Twitter](https://github.com/Bunty9/Twitter)
